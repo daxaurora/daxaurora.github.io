@@ -5,7 +5,7 @@ titles_from_headings:
   strip_title: true
   collections: true 
   
- social-network-links:
+social-network-links:
   email: "laura.williams@berkeley.edu"
   github: daxaurora
 #  medium: yourname
