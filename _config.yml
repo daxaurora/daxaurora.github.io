@@ -1,5 +1,12 @@
 theme: jekyll-theme-tactile
+
 titles_from_headings:
   enabled:     true
   strip_title: true
   collections: true 
+  
+ social-network-links:
+  email: "laura.williams@berkeley.edu"
+  github: daxaurora
+#  medium: yourname
+  linkedin: williams-laura
