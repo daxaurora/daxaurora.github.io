@@ -4,7 +4,6 @@
 Data scientist with a Master of Information and Data Science from UC Berkeley, experience in data architecture, analysis, and modeling using Python, Spark, SQL, and AWS, and 15 years of multidisciplinary problem-solving and creative work experience. Transitioning into data engineering and ML Ops. Passionate about sustainability, data for social good, and ethical AI. Thrives in diverse workplaces that foster curiosity, excellence, and a growth mindset.
 
 
-
 # Portfolio
 ## Technical Projects
 
@@ -26,12 +25,12 @@ Built ETL pipeline to explore weather impact on solar energy production using AW
 ## Writing and Presentations
 
 **[Spatial Data Modeling: Night Skies Visibility](https://proceedings.esri.com/library/userconf/proc15/papers/839_474.pdf)**  
-Co-authored Night Skies Visibility Modeling with Grand Canyon's GIS Program Manager, accepted for presentation at 2015 ESRI User Conference.
+Co-authored Night Skies Visibility Modeling with Grand Canyon's GIS Program Manager, Mark Nebel. Accepted for presentation at 2015 ESRI User Conference.
 
 **[Night Skies Protection and Data Assessments](https://www.grandcanyon.org/media/2172/document_learn_fieldinstitute_gts_2015_williams_presentation.pdf)**<br/> Created and presented a summary of Grand Canyon's Night Skies Protection program for the Grand Canyon Field Institute's 2015 annual Hiking Guides Training Seminar.
 
 **[Data Ethics and Privacy](https://docs.google.com/presentation/d/18KkGVry4wJkChRbq6b54LG3ix234CDELawlLGR7BXtQ/edit?usp=sharing)**  
-White paper exploring multiple interpretations emerging from seemingly simple crime statistics, in the spirit of Sandra Harding's concept that "All scientific knowledge is always, in every respect, socially situated." (from *Whose Science? Whose Knowledge? Thinking from Women’s Lives*)
+White paper titled *Gender and Sexual Assault: What Can Data “Know?”* explores multiple interpretations emerging from seemingly simple crime statistics, in the spirit of Sandra Harding's concept that "All scientific knowledge is always, in every respect, socially situated." (from *Whose Science? Whose Knowledge? Thinking from Women’s Lives*)
 
 <br/>
 <br/>
