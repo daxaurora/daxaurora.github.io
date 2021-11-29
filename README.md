@@ -29,7 +29,7 @@ Co-authored Night Skies Visibility Modeling with Grand Canyon's GIS Program Mana
 
 **[Night Skies Protection and Data Assessments](https://www.grandcanyon.org/media/2172/document_learn_fieldinstitute_gts_2015_williams_presentation.pdf)**<br/> Created and presented a summary of Grand Canyon's Night Skies Protection program for the Grand Canyon Field Institute's 2015 annual Hiking Guides Training Seminar.
 
-**[Data Ethics and Privacy](https://docs.google.com/presentation/d/18KkGVry4wJkChRbq6b54LG3ix234CDELawlLGR7BXtQ/edit?usp=sharing)**  
+**[Data Ethics and Privacy](https://docs.google.com/document/d/1724spDc_VEaI_tIH-Peo-mSBkjjpnhcUlYWyrX4Y5FA/edit?usp=sharing)**  
 White paper titled *Gender and Sexual Assault: What Can Data “Know?”* explores multiple interpretations emerging from seemingly simple crime statistics, in the spirit of Sandra Harding's concept that "All scientific knowledge is always, in every respect, socially situated." (from *Whose Science? Whose Knowledge? Thinking from Women’s Lives*)
 
 <br/>
