@@ -7,7 +7,7 @@ Transitioning into data engineering and MLOps from data science, supported by a 
 # Portfolio
 ## Technical Projects
 
-**[Microservices Pipeline](https://daxaurora.github.io/weather-data-pipeline)**  
+**[Weather Data Pipeline](https://daxaurora.github.io/weather-data-pipeline)**  
 Designed and built an automated, containerized data solution with a microservices architecture using Docker, Python, and SQL for loading NOAA weather data into PostgreSQL. Ongoing project to be built out for use on AWS incorporating a CI/CD workflow.
 
 **[Predicting Solar Panel Adoption](https://www.ischool.berkeley.edu/projects/2019/predicting-solar-panel-adoption)**  
